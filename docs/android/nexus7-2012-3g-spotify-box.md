@@ -48,13 +48,13 @@ The following sections go beyond registering the post installation steps I appli
 		2. Click on the 3 vertical dots in the top right corner
 		3. Uncheck `Enable auto update`
 4. SIM Card
-        * Deactivate SIM Pin to be asked constantly (may be a card/hardware issue)
-                1. Settings > Security > Set up SIM card lock
-                2. Unset `Lock SIM card`
+	* Deactivate SIM Pin to be asked constantly (may be a card/hardware issue)
+		1. Settings > Security > Set up SIM card lock
+		2. Unset `Lock SIM card`
 5. Display
-        * Deactivate double-tab screen wake up
-                1. Settings > Display
-                2. Unset `Tap to wake`
+	* Deactivate double-tab screen wake up
+		1. Settings > Display
+		2. Unset `Tap to wake`
 
 ## Spotify
 After the instalation, log in into your account (yeah, I'm a paying user).
